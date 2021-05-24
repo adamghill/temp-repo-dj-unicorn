@@ -1,0 +1,13 @@
+{% load unicorn %}
+
+<html>
+<head>
+	<title>Unicorn Screencasts</title>
+    {% unicorn_scripts %}
+</head>
+<body>
+    {% csrf_token %}
+
+    {% unicorn "sightings" %}
+</body>
+</html>

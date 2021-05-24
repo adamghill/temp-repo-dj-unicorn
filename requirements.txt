@@ -1,0 +1,12 @@
+asgiref @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/9c/90/26/d9fa1dfd567d8ba46faa44b741eb6442f3b97eb9f10a40bc1ad7a7f10e/asgiref-3.3.1-py3-none-any.whl
+beautifulsoup4 @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/eb/47/47/287c1b8a386f9437d562f9221ae959756bc5bbfcd541c38c17968dfe8a/beautifulsoup4-4.9.3-py3-none-any.whl
+cachetools @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/62/00/1f/ae1f1cd9eeaccf6a67978ad4c30e7bf615a5b9a4301e0857116e93c966/cachetools-4.2.0-py3-none-any.whl
+Django @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/ba/bf/03/8ccf81ef35756f700d9fea51f565add2b97402eb4a2445122d728e348e/Django-3.1.4-py3-none-any.whl
+django-unicorn @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/d8/7c/cc/8ce545956cda7b6d380849f232d20f521e4767f4c392b102816877fe39/django_unicorn-0.13.0-py3-none-any.whl
+magical-creatures==0.1.0
+orjson @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/62/db/7a/4f4a656c682724688aaf88ce547d85cf32ac6f33d694d0129b679bc39b/orjson-3.4.6-cp39-none-win_amd64.whl
+pytz @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/c6/bb/04/21098a684ef4022fe42ab07dfca47a49a953c3fb8599e8c0645c717a82/pytz-2020.4-py2.py3-none-any.whl
+shortuuid @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/80/85/8d/5bdb9fbab8b4fc7bd9599a4982cac0ae2498f4c863d13869d4e1e7b722/shortuuid-1.0.1-py3-none-any.whl
+soupsieve @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/36/91/dd/14358bbb9ccf9cfe4cd257f66474ba85420f9626c528ccce00e5ac2dc5/soupsieve-2.1-py3-none-any.whl
+sqlparse @ file:///C:/Users/Lenovo/AppData/Local/pypoetry/Cache/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
+wrapt==1.12.1
