@@ -125,3 +125,7 @@ STATIC_URL = "/static/"
 UNICORN = {
     "MINIFIED": True,
 }
+
+if DEBUG:
+    import mimetypes
+    mimetypes.add_type("application/javascript", ".js", True)
